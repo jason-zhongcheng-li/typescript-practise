@@ -1,4 +1,5 @@
 import * as assert from "assert";
+
 describe("Collection test", () => {
   it("Solution 1", () => {
     const a = 1;
